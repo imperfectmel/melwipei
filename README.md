@@ -1,12 +1,6 @@
 <h1 align="center">Hola 👋, soy Melanie. Me conoces acá como @melwipei.</h1>
 <h3 align="center">Una apasionada por el codigo :P</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melwipei&label=Profile%20views&color=0e75b6&style=flat" alt="melwipei" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melwipei" alt="melwipei" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/melwipei" target="blank"><img src="https://img.shields.io/twitter/follow/melwipei?logo=twitter&style=for-the-badge" alt="melwipei" /></a> </p>
-
 - 👯 CEO de [Elekta](https://www.elekta.lat)
 
 - 📝 Soy archivista de TV en mi tiempo libre, pasate por mi canal: [https://www.youtube.com/@flyxarchivos](https://www.youtube.com/@flyxarchivos)
